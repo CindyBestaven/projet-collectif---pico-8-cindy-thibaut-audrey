@@ -1,6 +1,6 @@
 # Projet_Collectif_Pico8-byCindy/Thibaut/Audrey 🕹️
 
-Ce projet collecfif était porté sur la création d'un petit jeu vidéo via Pico8.
+Ce projet collectif était porté sur la création d'un petit jeu vidéo via Pico8.
 
 Stack : Lua (Pico8)
 
