@@ -10,3 +10,6 @@ ville de Nantes et en partant des locaux de ADA TECH SCHOOL.
 Le premier projet collectif de notre formation.
 
 Créatif et amusant à réaliser. 👍
+
+lien vers le jeu sur le forum de Pico8:
+https://www.lexaloffle.com/bbs/?tid=51817
