@@ -13,3 +13,6 @@ Créatif et amusant à réaliser. 👍
 
 lien vers le jeu sur le forum de Pico8:
 https://www.lexaloffle.com/bbs/?tid=51817
+
+![image](https://user-images.githubusercontent.com/115542526/222730958-5d5f5dcc-87a7-469a-889c-3377008d0c81.png)
+
